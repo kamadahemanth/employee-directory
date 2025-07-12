@@ -1,0 +1,12 @@
+{
+  "name": "employee-directory",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve . -p 3000"
+  },
+  "description": "Employee Directory Web App - AJACKUS Frontend Assignment",
+  "keywords": ["employee", "directory", "freemarker", "vanilla-js"],
+  "author": "AJACKUS Assignment"
+}
